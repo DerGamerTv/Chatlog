@@ -1,0 +1,7 @@
+name: Chatlog
+author: DerGamerTv
+version: 1.0.0
+main: eu.dergamertv.chatlog.Main
+
+commands:
+      chatlog:
